@@ -1,5 +1,4 @@
-const API_BASEURL = process.env.API_BASEURL || "http://localhost:3001";
-
+const API_BASEURL = process.env.NEXT_PUBLIC_API_BASEURL || "http://localhost:3001";
 const handleResponse = async (response) => {
   if (!response.ok) {
     const errorText = await response.text();

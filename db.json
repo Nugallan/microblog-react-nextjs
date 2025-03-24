@@ -27,6 +27,34 @@
       "autoria": 1,
       "id": "14",
       "fecha": "1605-01-03T12:00:00Z"
+    },
+    {
+      "id": "00bb",
+      "contenido": "Prueba de edición de primer post desde proyecto de Vercel con API en render.com",
+      "autoria": 1,
+      "fecha": "2025-03-24T01:15:25.104Z",
+      "editedDate": "2025-03-24T01:15:46.595Z"
+    },
+    {
+      "id": "ec97",
+      "contenido": "Un segundo post de prueba",
+      "autoria": 1,
+      "fecha": "2025-03-24T01:15:55.429Z",
+      "editedDate": null
+    },
+    {
+      "id": "1df5",
+      "contenido": "Un tercer post de prueba",
+      "autoria": 1,
+      "fecha": "2025-03-24T01:20:01.399Z",
+      "editedDate": null
+    },
+    {
+      "id": "86e3",
+      "contenido": "Un cuarto post.",
+      "autoria": 1,
+      "fecha": "2025-03-24T01:26:40.770Z",
+      "editedDate": null
     }
   ]
 }
